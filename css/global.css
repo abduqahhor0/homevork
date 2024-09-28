@@ -1,0 +1,25 @@
+.container{
+    min-width: 1200px;
+    padding: 0 16px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    height: 100%;
+    width: 100%;
+}
+button{
+    background-color: #575445;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    text-transform: capitalize;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.counter{
+    background-color: #fff;
+    color: #575445;
+    padding: 0px 7px;
+    border-radius: 20px;
+}
